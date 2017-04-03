@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<YAZARLAR>
+    <Yazar>
+        <YazarID>2001</YazarID>
+        <KitapID>1001</KitapID>
+        <Adi>Orhan</Adi>
+        <Soyadi>Pamuk</Soyadi>
+        <Doğumyili>1952</Doğumyili>
+            
+    </Yazar>
+    <Yazar>
+        <YazarID>2002</YazarID>
+        <KitapID>1002</KitapID>
+        <Adi>Zülfü</Adi>
+        <Soyadi>Livaneli</Soyadi>
+        <Doğumyili>1946</Doğumyili>
+            
+    </Yazar>
+     <Yazar>
+        <YazarID>2003</YazarID>
+        <KitapID>1005</KitapID>
+        <Adi>Sabahattin</Adi>
+        <Soyadi>Ali</Soyadi>
+        <Doğumyili>1907</Doğumyili>
+            
+    </Yazar>
+    <Yazar>
+        <YazarID>2004</YazarID>
+        <KitapID>1007</KitapID>
+        <Adi>Ayşe </Adi>
+        <Soyadi>Kulin</Soyadi>
+        <Doğumyili>1941</Doğumyili>
+    
+    </Yazar>
+    <Yazar>
+        <YazarID>2005</YazarID>
+        <KitapID>1008</KitapID>
+        <Adi>Aziz</Adi>
+        <Soyadi>Nesin</Soyadi>
+        <Doğumyili>1915</Doğumyili>
+            
+    </Yazar>
+</YAZARLAR>
+
+
+
+
+
+
+
+
