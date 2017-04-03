@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="YAZAR">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="YazarID" type="xs:string"/>
+      <xs:element name="KitapID" type="xs:string"/>
+      <xs:element name="Adi" type="xs:string"/>
+      <xs:element name="Soyadi" type="xs:string"/>
+      <xs:element name="Dogumyili" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+</xs:schema>
