@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc= "http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Mutluluk</dc:title>
+    <dc:creator>Zulfu Livaneli</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:publisher>Ithaki Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:description>376 sayfa</dc:description>
+</rdf:Description>   
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Kardeşimin Hikayesi</dc:title>
+    <dc:creator>Zulfu Livaneli</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:description>324 sayfa</dc:description>
+</rdf:Description>   
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Son Adanın Çocukları</dc:title>
+    <dc:creator>Zulfu Livaneli</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:publisher>Doğan Egmond</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:description>197 sayfa</dc:description>
+</rdf:Description>   
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Kuyucaklı Yusuf</dc:title>
+    <dc:creator>Sabahattin Ali</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:description>224 sayfa</dc:description>
+</rdf:Description>       
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Kurk Mantolu Madonna</dc:title>
+    <dc:creator>Sabahattin Ali</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:description>160 sayfa</dc:description>
+
+</rdf:RDF>
